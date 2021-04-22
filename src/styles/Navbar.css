@@ -1,0 +1,24 @@
+.navbar{
+    background: linear-gradient(90deg, #f084fa 0%, #e032f0 100%);
+   
+}
+
+.navbar-brand{
+    color: white;
+    font-family: 'Ink Free';
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.nav-link{
+    color: white;
+    font-family: "Book Antiqua";
+    font-size: 17px;
+}
+
+.fa-running{
+    margin-left: 250px;
+    margin-top: 1%;
+    font-size: 35px;
+    color: white;
+}
